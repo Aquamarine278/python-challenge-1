@@ -149,7 +149,7 @@ while place_order:
     
                     # Tell the customer that their input isn't valid
                 else: 
-                    print("You did not enter a valid iput. ")
+                    print("You did not enter a valid input. ")
 
                 # Tell the customer they didn't select a menu option
             else:
